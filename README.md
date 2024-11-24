@@ -98,8 +98,7 @@ ArBy는 단순한 정보 제공을 넘어, 중앙대 학생들의 실질적인 �
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyo_dongdong_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyodddong)
-
-![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)    **hyo_ddong_@ naver.com**
+[![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](hyo_ddong_@naver.com)
 
 
 ---
