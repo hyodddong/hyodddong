@@ -83,11 +83,12 @@ ArBy는 단순한 정보 제공을 넘어, 중앙대 학생들의 실질적인 �
 
 애프터이펙트와 프리미어를 이용해서 원형관 동영상의 마크를 설정하고, 엣지 추출을 통해 적절히 합성합니다.
 
-더 궁금한 점이 있다면, 아래 연락처로 연락해주세요 😎
-
+## 사용한 기술
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+더 궁금한 점이 있다면, 아래 연락처로 연락해주세요 😎
 
 
 </details>
