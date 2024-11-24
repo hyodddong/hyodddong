@@ -86,7 +86,7 @@ ArBy는 단순한 정보 제공을 넘어, 중앙대 학생들의 실질적인 �
 더 궁금한 점이 있다면, 아래 연락처로 연락해주세요 😎
 
 
-**사용한 기술:** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 
@@ -98,8 +98,6 @@ ArBy는 단순한 정보 제공을 넘어, 중앙대 학생들의 실질적인 �
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyo_dongdong_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyodddong)
-
-![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)    **hyo_ddong_@ naver.com**
 
 
 ---
