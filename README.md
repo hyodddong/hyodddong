@@ -113,7 +113,6 @@ ArBy는 단순한 정보 제공을 넘어, 중앙대 학생들의 실질적인 �
 
 ---
 
-> **💬협업하고 싶으신 분은 언제든 연락주세요!**
 >
 > 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer&text=&fontSize=" />
