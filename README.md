@@ -2,13 +2,6 @@
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2c2,100:f3c7ff&height=240&text=HELLO,%20WORLD!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 
-안녕하세요! 👋 저는 중앙대학교 예술공학부 23학번 재학중인 **이효정**입니다.
-
-아직 배우고 싶은 것도, 하고 싶은 것도 많은 1학년입니다.
-무언가를 배우는 건 정말 신나는 것 같아요!😎
-(귀찮은 것이랑은 별개로.)
-
-앞으로의 제 행보가 궁금하시다면 팔로우해주세요 😉
 
 
 ## 🎮 **관심사**
